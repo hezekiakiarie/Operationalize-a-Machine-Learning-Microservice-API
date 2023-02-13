@@ -1,4 +1,6 @@
 <paste log output from Docker prediction, here>
+kubectl run --generator=deployment/apps.v1 is DEPRECATED and will be removed in a future version. Use kubectl run --generator=run-pod/v1 or kubectl create instead.
+Error from server (AlreadyExists): deployments.apps "projectml" already exists
 NAME        READY   STATUS    RESTARTS   AGE
 projectml   1/1     Running   0          74s
 Forwarding from 127.0.0.1:8000 -> 80
