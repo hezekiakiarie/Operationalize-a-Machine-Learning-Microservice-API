@@ -1,3 +1,4 @@
+<paste log output from Docker prediction, here>
 NAME        READY   STATUS    RESTARTS   AGE
 projectml   1/1     Running   0          74s
 Forwarding from 127.0.0.1:8000 -> 80
