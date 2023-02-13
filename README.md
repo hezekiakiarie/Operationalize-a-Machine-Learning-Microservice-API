@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/hezekiakiarie/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/hezekiakiarie/Operationalize-a-Machine-Learning-Microservice-API)
+
 # Operationalize a Machine Learning Microservice API
 
 This Microservice Project is part of the Udacity Cloud DevOps Engineer Nanodegree
